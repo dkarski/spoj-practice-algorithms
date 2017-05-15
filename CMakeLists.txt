@@ -4,5 +4,6 @@ project(eduSecond)
 set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES main.cpp "SpojPracticeAlgorithms.h"
-        "List problems/Half of the half.cpp")
+        "List problems/Half of the half.cpp"
+        "List problems/Character Patterns (Act 1).cpp")
 add_executable(eduSecond ${SOURCE_FILES})

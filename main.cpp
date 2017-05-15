@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-    halfOfTheHalf();
+//    halfOfTheHalf();
+    characterPatterns();
     return 0;
 }
 
