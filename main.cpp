@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
 //    halfOfTheHalf();
-    characterPatterns();
+//    characterPatterns();
+    addingReversedNumbers();
     return 0;
 }
 
